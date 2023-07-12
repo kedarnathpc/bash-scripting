@@ -1,0 +1,7 @@
+#!/bin/bash
+str1="Hello world"
+str2="Kedarnath Chavan"
+str3="abcdefghijklmjopqrstuvwxyz"
+expr substr "$str1" $1 $2
+expr substr "$str2" $1 $2
+
